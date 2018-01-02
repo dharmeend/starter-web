@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. this excercised done and dharmeen. Adding line for rebasing 
+This repository is for showing how Git and GitHub work. this excercised done and dharmeen. Adding line for rebasing , more chnages on feature branch 
 
 ## Purpose
 
