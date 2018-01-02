@@ -13,4 +13,4 @@ this deplooo ooo tuyyuy
 please fork this repository
 
 ### Copyright
-copyright noti
+copyright noti. All right reserved
