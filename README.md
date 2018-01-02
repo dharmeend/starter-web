@@ -8,3 +8,6 @@ Sample website with plenty of files for demos. hi dharmeen nhh
 
 ## Deployment 
 this deplooo ooo tuyyuy
+
+### Copyright
+copyright noti
