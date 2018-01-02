@@ -9,5 +9,8 @@ Sample website with plenty of files for demos. hi dharmeen nhh
 ## Deployment 
 this deplooo ooo tuyyuy
 
+## How to Contribute
+please fork this repository
+
 ### Copyright
 copyright noti
